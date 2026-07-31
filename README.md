@@ -12,8 +12,8 @@ I'm a passionate developer who brings ideas to life through code and creativity.
 ![](https://streak-stats.demolab.com/?user=omarkhlifi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=omarkhlifi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=omarkhlifi&theme=flat&row=1&column=6)
+## 🏆 GitHub Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=omarkhlifi&theme=tokyo-night)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
